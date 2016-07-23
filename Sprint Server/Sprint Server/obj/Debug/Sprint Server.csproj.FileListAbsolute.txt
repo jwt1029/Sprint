@@ -1,1 +1,11 @@
 c:\users\xenoaron\documents\visual studio 2015\Projects\Sprint Server\Sprint Server\bin\Debug\Sprint Server.exe.config
+C:\Users\XenoAron\Documents\GitHub\Sprint\Sprint Server\Sprint Server\bin\Debug\Sprint Server.exe.config
+C:\Users\XenoAron\Documents\GitHub\Sprint\Sprint Server\Sprint Server\bin\Debug\Sprint Server.exe
+C:\Users\XenoAron\Documents\GitHub\Sprint\Sprint Server\Sprint Server\bin\Debug\Sprint Server.pdb
+C:\Users\XenoAron\Documents\GitHub\Sprint\Sprint Server\Sprint Server\bin\Debug\System.Net.Json.dll
+C:\Users\XenoAron\Documents\GitHub\Sprint\Sprint Server\Sprint Server\obj\Debug\Sprint Server.csprojResolveAssemblyReference.cache
+C:\Users\XenoAron\Documents\GitHub\Sprint\Sprint Server\Sprint Server\obj\Debug\Sprint_Server.Form1.resources
+C:\Users\XenoAron\Documents\GitHub\Sprint\Sprint Server\Sprint Server\obj\Debug\Sprint_Server.Properties.Resources.resources
+C:\Users\XenoAron\Documents\GitHub\Sprint\Sprint Server\Sprint Server\obj\Debug\Sprint Server.csproj.GenerateResource.Cache
+C:\Users\XenoAron\Documents\GitHub\Sprint\Sprint Server\Sprint Server\obj\Debug\Sprint Server.exe
+C:\Users\XenoAron\Documents\GitHub\Sprint\Sprint Server\Sprint Server\obj\Debug\Sprint Server.pdb

@@ -30,6 +30,7 @@
         {
             this.LogText = new System.Windows.Forms.TextBox();
             this.SwitchButton = new System.Windows.Forms.Button();
+            this.commandText = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // LogText
@@ -37,24 +38,33 @@
             this.LogText.Location = new System.Drawing.Point(12, 46);
             this.LogText.Multiline = true;
             this.LogText.Name = "LogText";
+            this.LogText.ReadOnly = true;
             this.LogText.Size = new System.Drawing.Size(487, 203);
-            this.LogText.TabIndex = 0;
+            this.LogText.TabIndex = 2;
             // 
             // SwitchButton
             // 
             this.SwitchButton.Location = new System.Drawing.Point(12, 12);
             this.SwitchButton.Name = "SwitchButton";
             this.SwitchButton.Size = new System.Drawing.Size(80, 23);
-            this.SwitchButton.TabIndex = 1;
+            this.SwitchButton.TabIndex = 0;
             this.SwitchButton.Text = "Server On";
             this.SwitchButton.UseVisualStyleBackColor = true;
             this.SwitchButton.Click += new System.EventHandler(this.SwitchButton_Click);
+            // 
+            // commandText
+            // 
+            this.commandText.Location = new System.Drawing.Point(12, 257);
+            this.commandText.Name = "commandText";
+            this.commandText.Size = new System.Drawing.Size(487, 21);
+            this.commandText.TabIndex = 1;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(511, 261);
+            this.ClientSize = new System.Drawing.Size(511, 290);
+            this.Controls.Add(this.commandText);
             this.Controls.Add(this.SwitchButton);
             this.Controls.Add(this.LogText);
             this.Name = "Form1";
@@ -68,6 +78,7 @@
 
         private System.Windows.Forms.TextBox LogText;
         private System.Windows.Forms.Button SwitchButton;
+        private System.Windows.Forms.TextBox commandText;
     }
 }
 
